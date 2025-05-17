@@ -1,10 +1,10 @@
-# 🍽️ Bistro Bliss - Restaurant & Café Website & Dashboard
+# 🍽️ Bistro Bliss - Restaurant & Cafe Website & Dashboard
 
 **Bistro Bliss** is a full-stack project (Front-End + Back-End) simulating a real freelance developer experience, built as part of the Web Masters Internship challenges.
 
 ## 📌 Project Overview
 
-Imagine you are hired as a freelancer to create a complete website and dashboard for a restaurant and café client. The project started with designing wireframes using [draw.io](https://draw.io) and then building the application based on the approved design.
+Imagine you are hired as a freelancer to create a complete website and dashboard for a restaurant and cafe client. The project started with designing wireframes using [draw.io](https://draw.io) and then building the application based on the approved design.
 
 ---
 
