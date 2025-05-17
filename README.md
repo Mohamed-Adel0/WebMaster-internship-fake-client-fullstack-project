@@ -44,7 +44,7 @@ Check the live project here:
 ---
 
 ## 📁 Project Structure
-
+![image](https://github.com/user-attachments/assets/3dbe8121-1bb3-459a-95e7-6a980c0d1264)
 ```bash
 bistro-bliss/
 ├── client/              # Front-End - React Application
@@ -57,4 +57,6 @@ bistro-bliss/
 │   └── ...
 └── README.md
 
-![image](https://github.com/user-attachments/assets/3dbe8121-1bb3-459a-95e7-6a980c0d1264)
+
+
+
